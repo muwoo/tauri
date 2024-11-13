@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.2.0]
+
+### New Features
+
+- [`cccb308c7`](https://www.github.com/tauri-apps/tauri/commit/cccb308c7b559b0838138d6cea280665f060c925) ([#11562](https://www.github.com/tauri-apps/tauri/pull/11562) by [@jLynx](https://www.github.com/tauri-apps/tauri/../../jLynx)) Generate signature for `.deb` packages when `createUpdaterArtifacts` option is enabled.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.1.1`
+
 ## \[2.1.0]
 
 ### New Features

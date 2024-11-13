@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.3.0]
+
+### New Features
+
+- [`dc4d79477`](https://www.github.com/tauri-apps/tauri/commit/dc4d79477665bc3bfefb4048772414cf5d78e3df) ([#11628](https://www.github.com/tauri-apps/tauri/pull/11628) by [@SpikeHD](https://www.github.com/tauri-apps/tauri/../../SpikeHD)) Add `WebviewWindowBuilder/WebviewBuilder::extensions_path` on Linux and Windows.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.1.1`
+
 ## \[2.2.0]
 
 ### New Features

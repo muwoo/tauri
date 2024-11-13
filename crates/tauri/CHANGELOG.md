@@ -1,5 +1,23 @@
 # Changelog
 
+## \[2.2.0]
+
+### New Features
+
+- [`dc4d79477`](https://www.github.com/tauri-apps/tauri/commit/dc4d79477665bc3bfefb4048772414cf5d78e3df) ([#11628](https://www.github.com/tauri-apps/tauri/pull/11628) by [@SpikeHD](https://www.github.com/tauri-apps/tauri/../../SpikeHD)) Add `WebviewWindowBuilder/WebviewBuilder::extensions_path` on Linux and Windows.
+
+### Bug Fixes
+
+- [`46935212b`](https://www.github.com/tauri-apps/tauri/commit/46935212b61da44dc82dfeb803fceebf5659f7b7) ([#11658](https://www.github.com/tauri-apps/tauri/pull/11658) by [@Legend-Master](https://www.github.com/tauri-apps/tauri/../../Legend-Master)) Fix `.json5` capability files not recognized even with `config-json5` feature enabled
+
+### Dependencies
+
+- Upgraded to `tauri-runtime@2.3.0`
+- Upgraded to `tauri-runtime-wry@2.3.0`
+- Upgraded to `tauri-utils@2.1.1`
+- Upgraded to `tauri-macros@2.0.4`
+- Upgraded to `tauri-build@2.0.4`
+
 ## \[2.1.1]
 
 ### Bug Fixes

@@ -1,5 +1,17 @@
 # Changelog
 
+## \[2.2.0]
+
+### New Features
+
+- [`cccb308c7`](https://www.github.com/tauri-apps/tauri/commit/cccb308c7b559b0838138d6cea280665f060c925) ([#11562](https://www.github.com/tauri-apps/tauri/pull/11562) by [@jLynx](https://www.github.com/tauri-apps/tauri/../../jLynx)) Generate signature for `.deb` packages when `createUpdaterArtifacts` option is enabled.
+- [`74212d40d`](https://www.github.com/tauri-apps/tauri/commit/74212d40d80dba4501b3d4ae30104fa3d447bdf9) ([#11653](https://www.github.com/tauri-apps/tauri/pull/11653) by [@amrbashir](https://www.github.com/tauri-apps/tauri/../../amrbashir)) Include Linux destkop environment and session type in `tauri info` command.
+
+### Dependencies
+
+- Upgraded to `tauri-bundler@2.2.0`
+- Upgraded to `tauri-utils@2.1.1`
+
 ## \[2.1.0]
 
 ### New Features
